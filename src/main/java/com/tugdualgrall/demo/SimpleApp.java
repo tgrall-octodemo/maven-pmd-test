@@ -3,6 +3,8 @@ package com.tugdualgrall.demo;
 public class SimpleApp {
 
     private String aStupidString = "Hello World";
+    private String anotherStupidString = "Hello World Again";
+
 
     public static void main(String[] args) {
         System.out.println( "Address "+ a() );

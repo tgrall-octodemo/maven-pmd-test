@@ -2,5 +2,5 @@ name: "Custom CodeQL configuration"
 
 queries:
   - uses: security-and-quality
-  - uses: tgrall/custom-codeql-queries/java/suppresswarnings/qlpack.yml@main
+  - uses: tgrall/custom-codeql-queries/java/suppresswarnings/suppresswarnings-pmd.ql@main
 

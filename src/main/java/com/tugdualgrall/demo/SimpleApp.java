@@ -9,11 +9,10 @@ public class SimpleApp {
 
     }
 
+    @SuppressWarnings("PMD")
     private static String a() {
         String address = "127.0.0.1";
         return address;
     }
-
-
 
 }
